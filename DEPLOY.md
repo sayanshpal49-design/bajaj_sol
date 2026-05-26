@@ -1,6 +1,6 @@
 # Deploy Spring Boot API — GitHub + Render
 
-Folder: `C:\Users\hp\bfhl-api`
+Folder: `D:\cursor\bajaj-finserv-health-python\bajaj_sol`
 
 ---
 
@@ -19,7 +19,7 @@ Folder: `C:\Users\hp\bfhl-api`
 Replace `YOUR_GITHUB_USERNAME`, then run in PowerShell:
 
 ```powershell
-cd C:\Users\hp\bfhl-api
+cd D:\cursor\bajaj-finserv-health-python\bajaj_sol
 git init
 git add .
 git commit -m "BFHL Spring Boot API"

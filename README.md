@@ -2,7 +2,7 @@
 
 Acropolis Campus Hiring API round. **POST** `/bfhl` only.
 
-**Project location:** `C:\Users\hp\bfhl-api`
+**Project location:** `D:\cursor\bajaj-finserv-health-python\bajaj_sol`
 
 ## Your profile (already configured)
 
@@ -24,7 +24,7 @@ Acropolis Campus Hiring API round. **POST** `/bfhl` only.
 Needs [Java 17](https://adoptium.net/) and [Maven](https://maven.apache.org/download.cgi):
 
 ```powershell
-cd C:\Users\hp\bfhl-api
+cd D:\cursor\bajaj-finserv-health-python\bajaj_sol
 mvn spring-boot:run
 ```
 
