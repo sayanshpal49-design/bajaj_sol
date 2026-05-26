@@ -38,8 +38,6 @@ curl.exe -X POST http://localhost:8080/bfhl -H "Content-Type: application/json" 
 mvn test
 ```
 
-## Deploy (GitHub + Render)
+## Deploy 
 
-See **[DEPLOY.md](DEPLOY.md)** for step-by-step instructions.
-
-Submit your live URL: `https://YOUR-SERVICE.onrender.com/bfhl`
+Submit your live URL: `https://bajaj-sol-52wa.onrender.com`
