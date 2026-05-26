@@ -1,8 +1,5 @@
 # BFHL API — Java Spring Boot
 
-Acropolis Campus Hiring API round. **POST** `/bfhl` only.
-
-**Project location:** `D:\cursor\bajaj-finserv-health-python\bajaj_sol`
 
 ## Your profile (already configured)
 
