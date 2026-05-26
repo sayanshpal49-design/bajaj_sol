@@ -21,7 +21,7 @@
 Needs [Java 17](https://adoptium.net/) and [Maven](https://maven.apache.org/download.cgi):
 
 ```powershell
-cd D:\cursor\bajaj-finserv-health-python\bajaj_sol
+cd D:\bajaj_java\bajaj-finserv\bajaj_sol
 mvn spring-boot:run
 ```
 
